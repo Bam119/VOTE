@@ -4,7 +4,7 @@ project:
   title:        "VOTE"      # Project title
   author:       "BAM"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "A VOTING SYSTEM"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -19,7 +19,7 @@ pinout:
   ui[0]: ""
   ui[1]: "VOTER 1"
   ui[2]: "VOTER 2"
-  ui[3]: "VOTER3"
+  ui[3]: "VOTER 3"
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
